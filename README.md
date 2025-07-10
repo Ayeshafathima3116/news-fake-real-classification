@@ -64,6 +64,8 @@ See `report.pdf` for summary, tools, steps, and conclusion.
 
 <img width="1920" height="1080" alt="Screenshot 2025-07-10 212129" src="https://github.com/user-attachments/assets/62cfa1dd-f0b5-4552-a0bd-1e3fa5e4cbfb" />
 
+<img width="1920" height="1080" alt="Screenshot 2025-07-10 213209" src="https://github.com/user-attachments/assets/cf3fdf06-e7be-403f-953f-54f31efd9d3f" />
+
 
 📬 Contact
 
